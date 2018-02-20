@@ -1,0 +1,5 @@
+setup.py
+Python_Adafruit_GFX.egg-info/PKG-INFO
+Python_Adafruit_GFX.egg-info/SOURCES.txt
+Python_Adafruit_GFX.egg-info/dependency_links.txt
+Python_Adafruit_GFX.egg-info/top_level.txt
