@@ -3,3 +3,4 @@ Adafruit_GFX.egg-info/PKG-INFO
 Adafruit_GFX.egg-info/SOURCES.txt
 Adafruit_GFX.egg-info/dependency_links.txt
 Adafruit_GFX.egg-info/top_level.txt
+adafruit_gfx/__init__.py
