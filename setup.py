@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 setup(
     name="Adafruit_GFX",
     version="0.1",
-    packages=find_packages(),
+    packages=['adafruit_gfx'],
     # scripts=['say_hello.py'],
 
     # Project uses reStructuredText, so ensure that the docutils get
