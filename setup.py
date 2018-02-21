@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
-    name="Python_Adafruit_GFX",
-    version="0.3",
+    name="Adafruit_GFX",
+    version="0.1",
     packages=find_packages(),
     # scripts=['say_hello.py'],
 
@@ -26,7 +26,7 @@ setup(
     project_urls={
         # "Bug Tracker": "https://bugs.example.com/HelloWorld/",
         # "Documentation": "https://docs.example.com/HelloWorld/",
-        "Source Code": "https://www.github.com/mrbloozman/Python_Adafruit_GFX",
+        "Source Code": "https://www.github.com/mrbloozman/Python_Adafruit_RA8875",
     }
 
     # could also include long_description, download_url, classifiers, etc.
