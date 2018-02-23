@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="Adafruit_GFX",
-    version="0.1",
+    version="1.0",
     packages=['adafruit_gfx'],
     # scripts=['say_hello.py'],
 
